@@ -1,1 +1,7 @@
-# Dependencies will be added later
+fastapi
+uvicorn
+transformers
+torch
+pillow
+pytesseract
+speechrecognition
