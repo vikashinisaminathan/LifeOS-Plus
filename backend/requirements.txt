@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-transformers
-torch
-torchvision
-sentence-transformers
-Pillow
-openai-whisper
