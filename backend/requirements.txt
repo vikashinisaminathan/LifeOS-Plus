@@ -2,6 +2,7 @@ fastapi
 uvicorn
 transformers
 torch
-pillow
-pytesseract
-speechrecognition
+torchvision
+sentence-transformers
+Pillow
+openai-whisper
